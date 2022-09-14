@@ -36,5 +36,7 @@
    **This edition changes a little bit of your web code**
 
    **This line will explain how this template be modified and automatically built on Jenkins server using Poll SCM **
-  
+
+   **If you see this line, which mean I've automatically deployed app to Docker container **
+
 </form>
