@@ -34,5 +34,7 @@
    <h1> Thankyou, Happy Learning </h1>
 
    **This edition changes a little bit of your web code**
+
+   **This line will explain how this template be modified and automatically built on Jenkins server using Poll SCM **
   
 </form>
