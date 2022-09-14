@@ -38,7 +38,7 @@
    **This line will explain how this template be modified and automatically built on Jenkins server using Poll SCM **
 
    **If you see this line, which mean I've automatically deployed app to Docker container **
-
+   **Configure path for Ansible playbook**
    **Ok this the 3rd attempt for automatically deploy app to docker**
    **If you see this, i"ve completed Jenkins Jobs w/ Ansible playbook **
 
